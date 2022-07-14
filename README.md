@@ -1,3 +1,7 @@
+# This is a stripped out version of CRA
+
+Some of the stock boilerplate was removed. [React-router-dom] was installed and setup for initial use. No styling libraries were added.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
